@@ -1,0 +1,15 @@
+{
+  "name": "lost-east",
+  "description": "Grok Bot skills for The Lost East YouTube studio.",
+  "owner": {
+    "name": "The Lost East"
+  },
+  "plugins": [
+    {
+      "name": "lost-east-studio",
+      "source": "./plugins/lost-east-studio",
+      "description": "Roles for the Grok Bot Studio Runner of The Lost East YouTube studio: queue runner, producer, scout, QA, channel manager.",
+      "version": "0.20261102.2238"
+    }
+  ]
+}
